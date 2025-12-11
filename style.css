@@ -5,3 +5,17 @@ body{
     background: #868686;
     font-family: "pirata one";
 }
+.control{
+    background:black !important;
+}
+.carousel-caption{
+    -webkit-text-stroke-width: 1px !important;
+    -webkit-text-stroke-color: black !important;
+    font-size: 30px;
+}
+.bigger{
+    font-size: 45px;
+}
+.gray{
+    border-bottom: 50px solid #212529 !important;
+}
