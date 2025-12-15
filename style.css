@@ -8,7 +8,8 @@ body{
 .control{
     background:black !important;
 }
-.carousel-caption{
+.carousel-caption,
+.caurosel-item{
     -webkit-text-stroke-width: 1px !important;
     -webkit-text-stroke-color: black !important;
     font-size: 30px;
