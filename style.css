@@ -19,3 +19,7 @@ body{
 .gray{
     border-bottom: 50px solid #212529 !important;
 }
+.center{
+    margin: 0 auto;
+    text-align: center;
+}
